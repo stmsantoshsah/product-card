@@ -200,4 +200,11 @@ body {
 }
 .add-to-cart:hover {
   background-color: #014d86;
+}
+
+footer {
+  background-color: #026AB8;
+  padding: 15px;
+  text-align: center;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
