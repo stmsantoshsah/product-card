@@ -1,0 +1,16 @@
+@import 'variables';
+
+body.dark-mode {
+    background-color: $background-color-dark;
+    color: $text-color-dark;
+
+    .product-card {
+        background-color: $card-background-dark;
+        box-shadow: 0 2px 8px rgba(255, 255, 255, 0.08);
+    }
+
+    .product-title,
+    .product-description {
+        color: $text-color-dark;
+    }
+}
